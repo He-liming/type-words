@@ -326,9 +326,9 @@ of course|phrase. 当然
 kettle|n. 水壶
 behind|prep. 在…后面；adv. 在后面
 teapot|n. 茶壶
-paint|v. 刷油漆；画；绘；n. 油漆；绘画颜料
-pink|n. 粉红色；adj. 粉红色的
-favourite|adj. 特别受喜爱的；n. 特别喜爱的事物
+now|adv. 现在；目前
+find|v. 找；找到；发现；认为
+boil|v. 沸腾；煮；煮沸；n. 煮沸；沸点
 can|v. 能；n. 金属罐
 boss|n. 老板
 minute|n. 分钟；一会儿；adj. 微小的
