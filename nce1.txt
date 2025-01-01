@@ -27,7 +27,7 @@ ticket|n. 票；车票
 number|n. 数字；号码
 five|num. 五
 sorry|adj. 对不起的；遗憾的；抱歉的；int. 对不起；抱歉
-sir n.|先生； 阁下
+sir|n.先生； 阁下
 cloakroom|n. 衣帽间；厕所
 suit|n. 套装；西装；诉讼；v. 适合；相配
 school|n. 学校；v. 教育
