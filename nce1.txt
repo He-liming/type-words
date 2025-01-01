@@ -27,7 +27,7 @@ ticket|n. 票；车票
 number|n. 数字；号码
 five|num. 五
 sorry|adj. 对不起的；遗憾的；抱歉的；int. 对不起；抱歉
-sir|n.先生； 阁下
+sir|n. 先生； 阁下
 cloakroom|n. 衣帽间；厕所
 suit|n. 套装；西装；诉讼；v. 适合；相配
 school|n. 学校；v. 教育
@@ -420,7 +420,7 @@ wet|adj. 潮的；湿的；v. 使潮湿；把…弄湿
 west|n. 西方；adj. 西方的；adv. 在西方
 south|n. 南方；adj. 南方的；adv. 在南方
 season|n. 季节；v. 给...调味；风干
-best|adj. 最好的；最多的；最大的；“good”的最高级；adv. 最好地；最多地；最大地；“well”的最高级；n. 最高水平；最佳物；佼佼者
+best|adj. ̧ 好的；¸多的；¸大的；“good”的¸高级；adv. ̧ 好地；¸多地；¸大地；“well”的¸高级；n. ̧ 高水平；¸佳物；佼佼者
 night|n. 夜晚；晚上
 rise|v. 上升；提高；n. 上升；提高
 early|adv. 提早地；adj. 早的；早前的
@@ -553,7 +553,7 @@ Denmark|n. 丹麦（北欧国家）
 awful|adj. 可怕的；糟糕的；讨厌的；adv. 非常；极其
 time|n. 时间；倍；次数；时期；v. 计时；安排时间；adj. 时间的；定时的；分期的
 answer|n. 回答；答案；v. 回答；回应
-last|adj. 最后的；最近的；adv. 最后；最近；v. 持续
+last|adj. ¸后的；¸近的；adv. ¸后；¸近；v. 持续
 phone|n. 电话；v. 打电话
 again|adv. 再次；又一次
 say|v. 说；讲；说话
@@ -655,7 +655,7 @@ Bombay|n. 孟买
 Geneva|n. 日内瓦（瑞士）
 Moscow|n. 莫斯科（俄罗斯首都）
 Rome|n. 罗马
-Seoul|n. 汉城；首尔（韩国的首都和最大城市）
+Seoul|n. 汉城；首尔（韩国的首都和¸大城市）
 Stockholm|n. 斯德哥尔摩（瑞典首都）
 Sydney|n. 悉尼（澳大利亚）
 train|n. 火车；列车；列；队；v. 训练；培训
@@ -705,7 +705,7 @@ hate|v. 讨厌；憎恨；n. 憎恨；厌恶
 low|adv. 低；低矮；在低处；往下地；adj. 低沉的；低垂的
 cheer|v. 欢呼；鼓舞；使鼓起精神；n. 欢呼声；激励
 guy|n. 家伙；人
-top|n. 顶；顶部；顶端；v. 胜过；超过；居…之首；adj. 最高的；极棒的
+top|n. 顶；顶部；顶端；v. 胜过；超过；居…之首；adj. ¸高的；极棒的
 clever|adj. 聪明的；灵巧的
 stupid|adj. 愚蠢的；笨的
 cheap|adj. 便宜的；廉价的
@@ -733,10 +733,10 @@ a few|phrase. 少许；少数
 pity|v. 怜悯；同情；n. 怜悯；同情；憾事
 instead|adv. 代替；反而
 advice|n. 建议；意见
-most|adj. 最多的；大多数的；adv. 最；pron. 大部分
-least|adj. 最少的；最小的；“little”的最高级；adv. 最小；最少；“little”的最高级；n. 最小；最少
+most|adj. ¸多的；大多数的；adv. ¸；pron. 大部分
+least|adj. ¸少的；¸小的；“little”的¸高级；adv. ¸小；¸少；“little”的¸高级；n. ¸小；¸少
 worse|adv. 更糟；更坏；adj. 更坏的；更糟糕的；“bad”的比较级；“ill”的比较级
-worst|adv. 最坏；最严重；最糟；adj. 最坏的；最糟糕的；“bad”的最高级；“ill”的最高级；n. 最坏的事
+worst|adv. ¸坏；¸严重；¸糟；adj. ¸坏的；¸糟糕的；“bad”的¸高级；“ill”的¸高级；n. ¸坏的事
 model|n. 模型；模特儿；模范；型号；v. 将…做成模型；当模特儿
 afford|v. 买得起；担负得起；有时间做；给予
 deposit|n. 存款；押金；沉淀；v. 存储；堆积
@@ -823,7 +823,7 @@ mink coat|phrase. 貂皮大衣
 future|n. 未来；将来；前途；adj. 将来的；未来的
 get married|phrase. 结婚
 hotel|n. 旅馆；酒店；饭店
-latest|n. 最新消息；最新事物；adj. 最新的；最近的；最后的；“late”的最高级
+latest|n. ¸新消息；¸新事物；adj. ¸新的；¸近的；¸后的；“late”的¸高级
 introduce|v. 介绍；引进
 football|n. [英]足球；[美]橄榄球
 pool|n. 水塘；水池；美式撞球；备用物资；v. 合伙经营；共用；汇集
@@ -867,4 +867,4 @@ piece|n. 片；块；件；作品；v. 拼凑
 tyre|n. 轮胎
 rusty|adj. 生锈的；生疏的
 among|prep. 在…之间
-prosecute|v. 起诉；控告；检举；指控；继续从
+prosecute|v. 起诉；控告；检举；指控；继续从事
